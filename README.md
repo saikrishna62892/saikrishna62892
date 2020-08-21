@@ -1,25 +1,20 @@
-### Hey 👋, I'm Mehdi
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
+	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hey there 👋, I'm Gudipati Sai Krishna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<a href="https://www.linkedin.com/in/saikrishna62892/">
+  <img align="left" alt="sk's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://www.instagram.com/saikrishna62892/">
+  <img align="left" alt="sk's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/saikrishna62892/">
+  <img align="left" alt="sk's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Sai Krishna Gudipati**, a **M.Tech Student** at **National Institute of Technology,Calicut** 🚀I'm a fresher and actively seeking for SDE oppurtunities 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -52,3 +47,4 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+
