@@ -20,7 +20,7 @@ Hi there, I'm **Sai Krishna Gudipati**, a **M.Tech Student** at **National Insti
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 My objective is to pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization;
-- 🤔 My interests are with Datastrucutures & Algorithms,Computer Networking,Operating Systems;
+- 🤔 My interests are with Datastrucutures & Algorithms,Computer Networking and Operating Systems;
 - 💼 I’m pursuing a Master's degree in Computer Science at NITC;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via saikrishna62892@gmail.com to reach me.
@@ -42,7 +42,7 @@ Hi there, I'm **Sai Krishna Gudipati**, a **M.Tech Student** at **National Insti
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Saikrishna's github stats](https://github-readme-stats.vercel.app/api?username=saikrishna62892)](https://github.com/saikrishna62892/github-readme-stats)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [Saikrishna62892](https://github.com/saikrishna62892)
 
