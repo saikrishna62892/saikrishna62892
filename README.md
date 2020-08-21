@@ -23,22 +23,16 @@ Hi there, I'm **Sai Krishna Gudipati**, a **M.Tech Student** at **National Insti
 - 🤔 My interests are with Datastrucutures & Algorithms,Computer Networking and Operating Systems;
 - 💼 I’m pursuing a Master's degree in Computer Science at NITC;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via saikrishna62892@gmail.com to reach me.
-- 📝 See my [Resume](https://docs.google.com/document/d/1aKsyFIwVnAIcUFW8DKyoKKxJ-BvB1MD9QvQfzUVrTOE/edit?usp=sharing) to get more info.
+- 📫 Please email via saikrishna62892@gmail.com to reach me;
+- 📝 See my [Resume](https://docs.google.com/document/d/1aKsyFIwVnAIcUFW8DKyoKKxJ-BvB1MD9QvQfzUVrTOE/edit?usp=sharing) to get more info;
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src=""></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
