@@ -29,12 +29,25 @@ Hi there, I'm **Sai Krishna Gudipati**, a **M.Tech Student** at **National Insti
 
 **Languages and Tools:**  
 
-<code><img height="20" src=""></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://img.icons8.com/officel/16/000000/ruby-programming-language.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/sql.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
+<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/oracle-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://img.icons8.com/officel/16/000000/java-eclipse.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/sublime-text.png"/>"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/laravel.png"></code>
+<code><img height="20" src="https://img.icons8.com/officel/16/000000/console.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"></code>
+<code><img height="20" src="https://img.icons8.com/officel/16/000000/windows-10.png"></code>
 
 [![Saikrishna's github stats](https://github-readme-stats.vercel.app/api?username=saikrishna62892)](https://github.com/saikrishna62892/github-readme-stats).
 
